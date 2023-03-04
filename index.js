@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const posthtml = require('posthtml');
 const plugins = require('./plugins');
 const prompt = require('prompt');
